@@ -1,4 +1,4 @@
-workspace = { members = ["bubble-sort-rs"] }
+workspace = { members = ["bubble-sort-rs", "insertion-sort-rs"] }
 [package]
 name = "algorithms-rs"
 version = "0.1.0"
